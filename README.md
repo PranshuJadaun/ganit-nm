@@ -36,6 +36,8 @@ The project will evolve over time as new ideas, methods, and capabilities are ex
 
 **Project initialization.**
 
+GANIT-NM is currently under active development.
+
 The initial project structure and development workflow have been established. Development of the mathematical functionality is yet to begin.
 
 ## Technologies
